@@ -1,5 +1,5 @@
 {
-    "sepolia-testnet": {
+    "sepolia": {
         "uris": [
             "https://sepolia.infura.io/v3/4252184f2d874daf8099238b4ea5d681",
             "https://1rpc.io/sepolia",
@@ -8,23 +8,22 @@
         ],
         "quorum": 1
     },
-    "arbsep-testnet": {
+    "arbsep": {
         "uris": [
             "https://arbitrum-sepolia.blockpi.network/v1/rpc/public",
             "https://sepolia-rollup.arbitrum.io/rpc"
         ],
         "quorum": 1
     },
-    "amoy-testnet": {
+    "amoy": {
         "uris": [
             "https://polygon-amoy.infura.io/v3/4252184f2d874daf8099238b4ea5d681",
             "https://rpc-amoy.polygon.technology",
             "https://polygon-amoy-bor-rpc.publicnode.com"
-
         ],
         "quorum": 1
     },
-    "joc-testnet": {
+    "joc": {
         "uris": [
             "https://rpc-1.testnet.japanopenchain.org:8545",
             "https://rpc-2.testnet.japanopenchain.org:8545",

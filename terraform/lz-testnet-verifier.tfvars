@@ -23,5 +23,5 @@ num_signers = 1
  * ------------------------ */
 app_name              = "gasolina-api"
 app_image_uri         = "us-east1-docker.pkg.dev/lz-docker/gasolina/gasolina"
-app_version           = "latest"                                                  // Edit: Gasolina version to deploy
-available_chain_names = "sepolia-testnet,arbsep-testnet,amoy-testnet,joc-testnet" // Edit: the chain names that gasolina will support and there are RPC providers for
+app_version           = "latest"                  // Edit: Gasolina version to deploy
+available_chain_names = "sepolia,arbsep,amoy,joc" // Edit: the chain names that gasolina will support and there are RPC providers for
